@@ -1,0 +1,30 @@
+/* shared style */
+.tex-primary{
+    color: rgba(78, 71, 255, 1);
+}
+.primary-btn{
+    background-color: #4E47FF;
+    font-weight: 900;
+    font-size: 16px;
+    color: #FFFFFF;
+    padding: 12px 36px 12px 36px;
+    border-radius: 10px;
+}
+.primary-btn:hover{
+    background-color: chocolate;
+
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 150px 150px;
+}
+.nav-title{
+    font-size: 34px;
+
+}
+nav ul li{
+    list-style: none;
+    align-items: center;
+
+}
