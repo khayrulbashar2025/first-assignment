@@ -131,5 +131,43 @@ nav ul li{
     padding: 10px;
     margin: 20px;
     
+} 
+/* footer style */
+.content-footer{
+    margin: 104px 200px;
+    
+    
+
+}
+.content-title{
+    font-weight: 900;
+    font-size: 100px;
+    padding: 120px 65px;
+    text-align: center;
+
+}
+.content-description{
+    text-align: center;
+}
+footer{
+    display: flex;
+    align-items: center;
+    
+}
+
+footer ul{
+    display: flex;
+    
+}
+footer ul li{
+    list-style: none;
+    margin: 20px;
+    
+    
+}
+footer li a{
+    text-decoration: none;
+    color: #8987A1;
+    justify-content: space-around;
 }
 
