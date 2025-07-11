@@ -94,4 +94,42 @@ nav ul li{
     color: #000000;
 }
 
+.content-section{
+    
+   
+    padding: 40px 20px;
+    border-radius: 10px;
+    display: flex;
+    
+}
+.clouam-title{
+    font-weight:bold;
+    font-size: 97px;
+}
+.clouam-section{
+    width: 50%;
+    
+}
+.intup-section[type="text"]{
+    height: 64px;
+    border-radius: 5px;
+    background-color: #FFFFFF;
+    display: block;
+    width: 100%;
+    padding: 10px 20px;
+    margin-bottom: 24px;
+}
+.intup-section-1{
+    width: 200px;
+    height: 20px;
+    padding: 10px;
+    margin: 20px;
+}
+.intup-section-2{
+    width: 200px;
+    height: 20px;
+    padding: 10px;
+    margin: 20px;
+    
+}
 
